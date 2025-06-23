@@ -2,6 +2,15 @@
 
 Una aplicación React moderna que muestra animaciones interactivas de perfiles de equipo usando GSAP (GreenSock Animation Platform).
 
+## 🖼️ Vista previa
+
+### Pantalla inicial
+![Equipo](./public/assets/images/11.png)
+
+### Al interactuar con un miembro
+![Andrés](./public/assets/images/22.png)
+
+
 ## Características
 
 - **Animaciones fluidas**: Utiliza GSAP para animaciones suaves y profesionales
@@ -29,16 +38,16 @@ src/
 
 ## Tecnologías Utilizadas
 
-- **React 19**: Framework de JavaScript para interfaces de usuario
-- **GSAP 3.13**: Biblioteca de animaciones de alto rendimiento
+- **React 19**: Framework de JavaScript para las interfaces de usuario
+- **GSAP 3.13**: Biblioteca de animaciones de JavaScript
 - **CSS3**: Estilos modernos con Flexbox y Grid
-- **Responsive Design**: Media queries para adaptabilidad
+- **Responsive Design**: Media queries para todos los dispositivos
 
 ## Funcionalidades
 
 ### Desktop
-- **Hover Effects**: Al pasar el mouse sobre una imagen, esta se agranda y muestra el nombre correspondiente
-- **Transiciones suaves**: Animaciones fluidas entre estados
+- **Hover Effects**: Al pasar el mouse sobre una imagen, esta se agranda y muestra el nombre 
+- **Transiciones suaves**: Animaciones fluidas entre cada elemento
 
 ### Móvil
 - **Touch Interactions**: Toca una imagen para activar la animación
@@ -97,9 +106,9 @@ gsap.to(element, {
 ## Contribución
 
 1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
+2. Crea una rama para tu feature (`git checkout -b feature/NuevaFuncionalidad`)
+3. Commit tus cambios (`git commit -m 'Añade alguna funcionalidad nueva que mejore mi proyecto'`)
+4. Push a la rama (`git push origin feature/NuevaFuncionalidad`)
 5. Abre un Pull Request
 
 ## Licencia
